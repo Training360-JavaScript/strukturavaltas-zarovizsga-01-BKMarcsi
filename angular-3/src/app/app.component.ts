@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { Construction } from './model/construction';
+import { ConstructionService } from './service/construction.service';
 
 @Component({
   selector: 'app-root',
