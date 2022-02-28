@@ -6,3 +6,10 @@
     @content
   }
 };
+
+@mixin mouse-hover{
+  &:hover{
+    background-color: $yellow;
+  }
+
+}
